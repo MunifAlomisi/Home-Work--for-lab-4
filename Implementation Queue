@@ -1,0 +1,11 @@
+# Home-Work--for-lab-4
+
+public interface Queue <E>{
+    boolean isEmpty();
+    int size();
+    void enqueue(E e);
+    E first();
+    E dequeue();
+    void rotet();
+}
+© 2022 GitHub, Inc.
